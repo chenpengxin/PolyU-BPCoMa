@@ -1,0 +1,12 @@
+
+
+# Clion trash
+**/.idea/
+cmake-build-debug/
+
+# VSCode trash
+**/.vscode/
+
+
+# python cache
+**/__pycache__/
