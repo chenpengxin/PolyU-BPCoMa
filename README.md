@@ -12,7 +12,7 @@ This repo shares the dataset, sample results, and benchmark devkit used in the p
 
 ## 1. Dataset	
 The dataset can be downloaded via the following links: \
-<a href="https://1drv.ms/u/s!AsE8pm2qeVzXbg6kkX5zuUA1ymo?e=dHZeRK">[OneDrive]</a>
+<a href="https://pan.quark.cn/s/0a9d6d73c8b4">[Quark Cloud Storage]</a>
 
 ## 2. DevKit	
 
