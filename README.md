@@ -82,4 +82,5 @@ Licensed under the CC BY-NC-SA 4.0 license, see [LICENSE](./LICENSE).
 
 
 ### Updates
+* Oct 19, 2026: New download link: <a href="https://pan.quark.cn/s/0a9d6d73c8b4">[Quark Cloud Storage]</a>
 * May 10, 2022: Initial release.
